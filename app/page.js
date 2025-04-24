@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <dev>
       <h2>Suscribe to FirstCodeByte</h2>
-      <button>Suscribe</button>
+     <button>Suscribe</button>
     </dev>
   );
 }
